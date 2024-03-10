@@ -11,17 +11,17 @@ A computer science graduate with a passion for cutting-edge technologies and a k
 ## 🔍 Areas of Interest
 
 - **Cloud Computing**
-  - Experience with building observability frameworks and implementing asynchronous programming.
+  - Experience with building observability frameworks and foundations for safety-critical systems.
   - Proficient in using procedural macros for code instrumentation and optimization.
-
-- **Computer Vision and Robotics**
-  - Skilled in 3D image processing, object localization, and target acquisition systems.
-  - Experienced in developing machine learning models for computer vision tasks.
-  - Familiar with robotics frameworks like ROS and inverse kinematics.
 
 - **AI Engineering**
   - Developed an LLM-powered Chatbot prototype with a custom AI agent tools.
   - Implemented Azure DevOps and Notion tool interfaces that significantly speeds up user productivity.
+
+- **Computer Vision and Robotics**
+  - Skilled in 3D image processing, object localization, and target acquisition systems.
+  - Experienced in developing machine learning models for computer vision tasks.
+  - Familiar with robotics frameworks.
 
 ## 🚀 What's Next?
 
