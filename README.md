@@ -25,7 +25,7 @@ A computer science graduate with a passion for cutting-edge technologies and a k
 
 ## 🚀 What's Next?
 
-I'm diving into small ML model utilization to empower edge device users (you and me) with cutting edge AI.
+I'm diving into small ML model utilization to empower consoomer device users (you and me) with cutting edge AI.
 
 If you're working on something interesting or have an idea you'd like to explore, feel free to reach out.
 
