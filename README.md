@@ -1,4 +1,4 @@
-# me
+# Me
 Software engineer specializing in high-performance systems, AI integration, and computer vision. I build robust solutions that bridge cutting-edge research with practical applications.
 
 ## Technical Expertise
