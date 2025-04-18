@@ -1,36 +1,37 @@
-### Hi there, I'm Glazzerino 👋
+# Francisco Montalvo
 
-A computer science graduate with a passion for cutting-edge technologies and a knack for solving complex problems. I thrive on challenging myself and pushing the boundaries of what's possible.
+Software engineer specializing in high-performance systems, AI integration, and computer vision. I build robust solutions that bridge cutting-edge research with practical applications.
 
-## 🛠️ Skills
+## Technical Expertise
 
-**Languages**: C++, Rust, Python, Kotlin, Java  
-**Tools & Frameworks**: Git, Posix, Gazebo, OpenCV, ROS, Web, AI, Machine Learning  
-**Spoken Languages**: Spanish (native), English (TOEFL iBT 112/120), Japanese (JLPT N5)
+```
+Languages: C++, Rust, Python, Kotlin, Java
+Tools & Frameworks: Git, POSIX, Gazebo, OpenCV, ROS
+Domains: Cloud Computing, AI Engineering, Computer Vision, Robotics
+Languages: Spanish (Native), English (TOEFL iBT 112/120), Japanese (Beginner)
+```
 
-## 🔍 Areas of Interest
+## Professional Focus
 
-- **Cloud Computing**
-  - Experience with building observability frameworks and foundations for safety-critical systems.
-  - Proficient in using procedural macros for code instrumentation and optimization.
+**Cloud Infrastructure & Observability**
+- Developed observability frameworks for safety-critical systems
+- Implemented code instrumentation via procedural macros for enhanced performance monitoring
 
-- **AI Engineering**
-  - Developed an LLM-powered Chatbot prototype with a custom AI agent tools.
-  - Implemented Azure DevOps and Notion tool interfaces that significantly speeds up user productivity.
+**ApPLieD aI eNgiNeeRinG**
+- Built LLM-powered productivity tools with custom agent interfaces
+- Integrated AI assistants with Azure DevOps and Notion for workflow automation
 
-- **Computer Vision and Robotics**
-  - Skilled in 3D image processing, object localization, and target acquisition systems.
-  - Experienced in developing machine learning models for computer vision tasks.
-  - Familiar with robotics frameworks.
+**Vision Systems & Robotics**
+- Specialized in 3D image processing and object localization
+- Implemented target acquisition systems with real-time constraints
+- Deployed machine learning models in resource-constrained environments
 
-## 🚀 What's Next?
+## Current Explorations
 
-I'm diving into small ML model utilization to empower consoomer device users (you and me) with cutting edge AI.
+Currently researching efficient deployment of small ML models on edge devices to democratize AI capabilities without sacrificing privacy or performance.
 
-If you're working on something interesting or have an idea you'd like to explore, feel free to reach out.
+## Contact
 
-## 📫 Get in Touch
-
-- Email: [fztmon@gmail.com](mailto:fztmon@gmail.com)
+- Email: fztmon@gmail.com
 - LinkedIn: [linkedin.com/in/paco-cs](https://www.linkedin.com/in/paco-cs/)
-  
+- GitHub: [github.com/Glazzerino](https://github.com/Glazzerino)
